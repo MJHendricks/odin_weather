@@ -1,0 +1,16 @@
+.weather {
+    width: 600px;
+    height: 200px;
+    background-color:beige;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+}
+
+.labels {
+    width: 400px;
+    color: black;
+    font-size: 18px;
+}
